@@ -14,10 +14,10 @@
 
 ---
 ## Contents (that feel more useful to me)
-- What was the context of what I was trying to do?
+- [What was the context of what I was trying to do?](#project-goals)
 - Does this script work yet? How much?
 - Were there things I couldn't get to work so I benched them but could revisit later with more time?
-- File Manifest _**Including**_ [here](#file-manifest)
+- [File Manifest](#file-manifest) _**Including**_ 
   - where did this come from/how was it made/what does it mean?
   - lazy codebook
 
