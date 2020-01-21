@@ -13,3 +13,7 @@ Librarians are increasingly concerned with promoting and supporting research rep
 ## Examples
 * [Example README file](example-README.md)
 * [R Markdown example](Demo-rmarkdown.md)
+
+## Slides
+* GitHub TBD
+* OSF TBD
