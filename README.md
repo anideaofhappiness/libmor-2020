@@ -14,6 +14,17 @@ Librarians are increasingly concerned with promoting and supporting research rep
 * [Example README file](example-README.md)
 * [R Markdown example](Demo-rmarkdown.md)
 
+## Links
+* [Markdown Tutorial](https://www.markdowntutorial.com/)
+* [Data Curation Network data primers](https://github.com/DataCurationNetwork/data-primers) 
+* [Codebook Cookbook](http://www.medicine.mcgill.ca/epidemiology/joseph/pbelisle/CodebookCookbook.html) 
+* [Atom text editor](https://atom.io/) 
+* [fairyfloss theme](https://atom.io/themes/fairyfloss) 
+* [R](https://www.r-project.org/)
+* [RStudio](https://rstudio.com/products/rstudio/)
+* [Tidyverse](https://www.tidyverse.org/) 
+* [R Markdown package](https://rmarkdown.rstudio.com/) 
+
 ## Slides
 * GitHub TBD
 * OSF TBD
