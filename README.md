@@ -13,6 +13,7 @@ Librarians are increasingly concerned with promoting and supporting research rep
 ## Examples
 * [Example README file](example-README.md)
 * [Sample Markdown file](sample-markdown.md)
+* [Missing documentation script](missing_documentation)
 * [R Markdown example](Demo-rmarkdown.md)
 
 ## Links
