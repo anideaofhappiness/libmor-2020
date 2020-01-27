@@ -12,6 +12,7 @@ Librarians are increasingly concerned with promoting and supporting research rep
 
 ## Examples
 * [Example README file](example-README.md)
+* [Sample Markdown file](sample-markdown.md)
 * [R Markdown example](Demo-rmarkdown.md)
 
 ## Links
@@ -24,6 +25,7 @@ Librarians are increasingly concerned with promoting and supporting research rep
 * [RStudio](https://rstudio.com/products/rstudio/)
 * [Tidyverse](https://www.tidyverse.org/) 
 * [R Markdown package](https://rmarkdown.rstudio.com/) 
+* [Untitled Goose Game](https://goose.game/)
 
 ## Slides
 * GitHub TBD
